@@ -25,7 +25,7 @@ h1 {
 h1 .seo {
     color: #d9dcd6;
 }
-
+/*Navigation bar on header*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,11 +47,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*For all the paragraph, p, in html*/
 p {
     font-size: 16px;
 }
-
+/*Image after header*/
 .hero {
     height: 800px;
     width: 100%;
@@ -60,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*Three sections on the left of the web page which is the main section in html*/
 .content {
     width: 75%;
     display: inline-block;
@@ -94,7 +94,7 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Side column on the right of the webpage which is under aside section in html*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,7 +121,7 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Footer section*/
 .footer {
     padding: 30px;
     clear: both;
