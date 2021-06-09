@@ -33,5 +33,5 @@ Selectors in CSS file are consolidated and concised to make the code clearer tha
 
 #### Final Review of Website
 The following images are the final look of the website. There are two images because I wasn't able to snap the entire website ate once.
-![The first image including the header, navigation bar and a header image.](../Assets/images/final-website-1)
-![The second image including all main sections, side bar, and footer of the webpage.](../Assets/images/final-website-2)
+![The first image including the header, navigation bar and a header image.](/assets/images/final-website-1.png)
+![The second image including all main sections, side bar, and footer of the webpage.](/assets/images/final-website-2.png)
