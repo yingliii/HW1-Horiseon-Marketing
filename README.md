@@ -32,6 +32,7 @@ All the heading tags are renamed to follow the sequestial order.
 Selectors in CSS file are consolidated and concised to make the code clearer than before. The orginal code has redundant properties under different selectors which can be combined in one section. _This is addressed._
 
 #### Final Review of Website
+
 The following images are the final look of the website. There are two images because I wasn't able to snap the entire website ate once.
 ![The first image including the header, navigation bar and a header image.](/assets/images/final-website-1.png)
 ![The second image including all main sections, side bar, and footer of the webpage.](/assets/images/final-website-2.png)
